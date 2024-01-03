@@ -1,14 +1,19 @@
-# Console-Finances
+# Coding Quiz
 Javascript Challege for EdX Bootcamp
 
 ## Description:
 
-The challenge was to take info that was in a .js file, and add Javascript code to do some calculations and output data to the console. 
+The challenge was to create a quiz using javascript and html starter sontent
 
 ## Usage:
 
-The information outputs to console (inpect window in broswer).
+Open deployed site, and 
 
 ## Link to Deployed Site:
 
 https://add101.github.io/CodeQuiz/
+
+
+## Screenshot:
+
+![my screenshot](assets/CodeQuiz-Screenshot.jpg)
